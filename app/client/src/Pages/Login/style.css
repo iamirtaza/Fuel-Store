@@ -1,0 +1,46 @@
+.loginForm {
+  padding: 15%;
+}
+
+.loginForm p {
+  color: #716aca;
+}
+
+.fieldDecoator {
+  line-height: 5px;
+  margin-top: 30px;
+}
+.fieldDecoator button {
+  background-color: #716aca;
+  color: white;
+  width: 60%;
+  height: 55px;
+}
+.rm {
+  margin-left: 10px;
+}
+
+.ca {
+  color: #716aca;
+  font-size: 16px;
+  font-weight: 600;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.loginForm input {
+  background-color: #f4f5f8;
+  height: 45px;
+}
+
+.loginRight {
+  background-image: url("../../Images/login_right.png");
+
+  /* Full height */
+  padding: 50%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

@@ -1,0 +1,33 @@
+.add_talent_btn .anticon {
+  color: #ffffff;
+}
+
+.add_talent_btn .ant-btn {
+  border-radius: 50px;
+  color: #ffffff;
+  background-color: #716aca;
+}
+
+.add_talent_btn .ant-btn:hover,
+.ant-btn:focus {
+  color: #ffffff;
+  background-color: #716aca;
+  border-color: #40a9ff;
+}
+
+.rount_btn .ant-btn {
+  background-color: white;
+}
+
+.rount_btn .anticon {
+  color: #212529;
+}
+.main_div_header {
+  margin-top: 20px;
+  background-color: #f2f3f8;
+}
+.add_talent_btn {
+}
+.rount_btn {
+  margin-right: 10px;
+}

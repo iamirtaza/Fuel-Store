@@ -1,0 +1,337 @@
+.main_div {
+  padding: 30px;
+  background-color: #f2f3f8;
+}
+
+.first_box {
+  background-color: #ffffff;
+  margin-top: 30px;
+  padding: 10px;
+}
+.first_box_context {
+  margin: 40px;
+}
+
+.talent_profile_pic {
+  height: 80px;
+  width: 80px;
+  border-radius: 50px;
+}
+.first_box_context {
+  margin: 40px;
+}
+
+.talent_profile_pic {
+  height: 90px;
+  width: 90px;
+  border-radius: 50px;
+}
+
+.profile_title_name {
+  font-size: 25px;
+  font-weight: bold;
+  margin: 0;
+  color: black;
+}
+
+.title_col {
+  margin-left: 15px;
+}
+
+.profile_title_email {
+  font-size: 12px;
+  margin: 0;
+  color: rgb(60, 183, 240);
+}
+
+.horizontal_align {
+  display: flex;
+}
+
+.profile_title_number {
+  font-size: 12px;
+  margin-left: 20px;
+  color: #969699;
+}
+
+.badge_pic {
+  width: 36px;
+  height: 30px;
+  margin-right: 5px;
+  opacity: 10%;
+}
+
+.text_align_right {
+  text-align: right;
+}
+
+.tier_data {
+  font-size: 13px;
+  color: #969699;
+}
+
+.talent_type_txt {
+  margin-top: 19px;
+  font-size: 13px;
+}
+
+.talent_seller,
+.talent_influencer,
+.vetted_yes,
+.vetted_no {
+  color: #212529;
+  background-color: #f4f5f8;
+  padding: 6px 20px;
+  border-radius: 20px;
+  margin-right: 15px;
+}
+
+.line {
+  border: 0.4px solid #e0e0e0;
+  margin-left: 9%;
+}
+
+.line_2 {
+  border: 0.4px solid #e0e0e0;
+}
+
+.line_3 {
+  border: 0.4px solid #e0e0e0;
+  margin-left: 9%;
+  margin-right: 9%;
+}
+
+.upper_margin {
+  margin-top: 20px;
+}
+
+.left_margin {
+  margin-left: 40px;
+}
+.left_margin_less {
+  margin-left: 20px;
+}
+.data_heading {
+  font-size: 13px;
+}
+
+.categories_data {
+  color: #ffffff;
+  margin-right: 4px;
+  font-size: 10px;
+  text-align: center;
+  background-color: #20c99a;
+  padding: 2px 7px;
+  border-radius: 20px;
+}
+
+.yes_no {
+  display: flex;
+  margin-left: 15px;
+  margin-top: -7px;
+}
+
+.bio_data {
+  font-size: 13px;
+  color: #969699;
+  margin-left: 20px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 6;
+}
+
+.bio_data_show p:hover {
+  display: block;
+}
+
+.six_images {
+  height: 150px;
+  width: 100%;
+}
+
+.post_tabs {
+  margin-top: 20px;
+}
+
+.ant-tabs {
+  color: #a7a8b3 !important;
+  font-size: 14px;
+  font-variant: tabular-nums;
+  line-height: 1.5;
+  list-style: none;
+  -webkit-font-feature-settings: "tnum";
+  font-feature-settings: "tnum", "tnum";
+  position: relative;
+  overflow: hidden;
+  zoom: 1;
+}
+.ant-tabs-nav .ant-tabs-tab:hover {
+  color: #a7a8b3 !important;
+}
+.ant-tabs-ink-bar {
+  background-color: transparent !important;
+}
+
+.ant-tabs-nav .ant-tabs-tab-active:hover {
+  color: #ffffff !important;
+}
+
+.ant-tabs-nav .ant-tabs-tab-active {
+  color: #ffffff !important;
+  background-color: #716aca;
+  border-radius: 30px;
+  margin-top: 20px !important;
+  margin-bottom: 20px !important;
+  font-size: 13px;
+  padding-top: 5px !important;
+  padding-bottom: 5px !important;
+  font-weight: 300;
+}
+
+.main_tab_card {
+  background-color: #ffffff;
+  height: 400px;
+}
+.align_right {
+  float: right;
+  margin-right: 20px;
+  margin-top: 16px;
+}
+.social_card_title {
+  font-size: 16px;
+  color: #33393f;
+  margin-top: 14px;
+  margin-left: 20px;
+}
+
+.social_posts {
+  max-height: 300px;
+  overflow-y: scroll !important;
+}
+
+.close_margin {
+  margin: 0px;
+  font-size: 14px;
+  margin-top: 7px;
+  font-weight: bold;
+  color: #666674;
+}
+
+.followers {
+  font-size: 11px;
+  margin-top: 0px;
+  color: #b3b3b6;
+}
+
+.social_img {
+  height: 30px;
+  width: 30px;
+  margin-top: 12px;
+  margin-left: 19px;
+}
+
+.campaign_img {
+  height: 17px;
+  width: 22px;
+  margin-top: 12px;
+  margin-left: 22px;
+}
+
+.campaign_name {
+  font-size: 15px;
+  margin-top: 8px;
+  color: #666674;
+}
+
+.campaign_date {
+  color: #11c9de;
+  margin-top: 8px;
+}
+
+.alert_img {
+  height: 21px;
+  width: 21px;
+  margin-top: 12px;
+  margin-left: 22px;
+}
+
+.notes_card {
+  background-color: #ffffff;
+  min-height: 200px;
+  margin-top: 20px;
+}
+
+.post_tab {
+  background-color: #ffffff;
+  min-height: 400px;
+}
+.table_div {
+  padding: 10px;
+}
+
+.table_div .ant-table-pagination.ant-pagination {
+  float: left;
+  margin: 16px 0;
+}
+.table_div .ant-pagination-prev .ant-pagination-item-link,
+.table_div .ant-pagination-next .ant-pagination-item-link {
+  background-color: #ebe9f2;
+  border: none;
+  border-radius: 50px;
+  outline: none;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.table_div .anticon {
+  color: #33393f;
+}
+
+.table_div .ant-pagination-item-active a {
+  color: #ffffff;
+}
+
+.table_div .ant-pagination-item,
+.table_div .ant-pagination-item:focus a,
+.table_div .ant-pagination-item:hover a {
+  color: #33393f;
+  background-color: transparent;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+}
+.table_div .ant-pagination-item-active {
+  color: #ffffff;
+  background: #716aca;
+  border-color: transparent;
+}
+
+.table_div .ant-pagination-item-active:focus a,
+.table_div .ant-pagination-item-active:hover a {
+  color: #ffffff;
+}
+
+.table_div tr:nth-child(even) {
+  background: #f4f5f8;
+}
+
+.table_div .ant-table-thead > tr > th {
+  border-bottom: none;
+  background: #f4f5f8;
+}
+
+.table_div .ant-table-tbody > tr > td {
+  border-bottom: none;
+}
+
+#yes_btn{
+    background-image: linear-gradient(#983af0, #e64263);
+    color : #FFFFFF;
+}
+
+.add_flyout{
+    width: 250px;
+    height: 100vh;
+}

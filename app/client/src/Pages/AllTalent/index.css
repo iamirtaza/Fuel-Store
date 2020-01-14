@@ -1,0 +1,114 @@
+.main-div-alltalent {
+  display: flex;
+  background-color: #f2f3f8;
+}
+.main-content-div {
+  width: 100vw;
+  overflow: scroll;
+}
+.numof-talents-cards-main {
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 20px;
+  display: flex;
+}
+.numof-talents-main-card {
+  width: 230px;
+  height: 125px;
+  background-color: white;
+  margin-right: 15px;
+}
+.all-talent-heading {
+  padding-top: 20px;
+  padding-left: 20px;
+  font-size: 18px;
+  color: #666674;
+}
+.numof-all-talent {
+  font-weight: bold;
+  padding-left: 20px;
+  font-size: 35px;
+  background: -webkit-linear-gradient(#7d0be1, #e44266);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.numof-all-talent-gray {
+  font-weight: bold;
+  padding-left: 20px;
+  font-size: 35px;
+  color: #c7c8c9;
+}
+.numof-talents-hr {
+  border: 1px solid #716aca;
+}
+.alltalent-show-data-main-div {
+  background-color: white;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 30px;
+}
+.alltalent-utility-topbar {
+  display: flex;
+  padding-top: 30px;
+}
+.alltalent-utilitybar-headings {
+  color: #666674;
+  font-size: 14px;
+  margin-left: 30px;
+}
+.alltalents-utility-dropdowns {
+  margin-left: 20px;
+  background-color: #f4f5f8;
+  width: 150px;
+  margin-top: -5px;
+}
+.ant-dropdown-link {
+  padding-left: 20px;
+  padding-top: 5px;
+  padding-right: 5px;
+  color: #666674;
+}
+.search-div {
+  margin-left: 10px;
+}
+.ant-dropdown-link i {
+  margin-left: 90px;
+}
+.search-div input {
+  border-radius: 0px;
+  margin-top: -5px;
+}
+.search-div {
+  margin-left: 50px;
+}
+.search-div i {
+  margin-left: 0px;
+}
+.search-div svg {
+  margin-left: 5px;
+  width: 15px;
+}
+.ant-input-suffix {
+  width: 15px;
+}
+.alltalent-list-icons {
+  width: 25px;
+  height: 25px;
+  margin-left: 20px;
+}
+.alltalent-utility-secondbar {
+  display: flex;
+  padding-top: 30px;
+}
+.altalent-utility-secondbar-links {
+  margin-left: 40px;
+  color: #716aca;
+  font-size: 14px;
+  font-weight: 500;
+}
+.table-main-div {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 30px;
+  overflow-x: scroll;
+}

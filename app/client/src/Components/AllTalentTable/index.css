@@ -1,0 +1,89 @@
+.alltalent-table-links-row {
+  width: 50px;
+}
+.alltalent-table-link-img {
+  width: 17px;
+}
+.alltalent-table-user-photo {
+  width: 50px;
+  height: 50px;
+}
+.alltalent-category-tag-div {
+  background-color: #20c99a;
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 25px;
+  border-radius: 14px;
+  margin-left: 5px;
+}
+.alltalent-category-tag-text {
+  color: white;
+  font-size: 10px;
+  text-align: center;
+  padding-top: 5px;
+  white-space: nowrap;
+}
+.category-tags-main-div {
+  display: flex;
+}
+.table-action-dots-log {
+  width: 20px;
+}
+.ant-pagination-item-active {
+  border-radius: 20px;
+  background-color: #716aca;
+  border-color: #716aca;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.ant-pagination-item-active a {
+  color: white;
+}
+
+.ant-pagination-next {
+  background-color: #ebe9f2;
+  border-radius: 20px;
+  margin-left: 5px !important;
+}
+.ant-pagination-prev {
+  background-color: #ebe9f2;
+  border-radius: 20px;
+  margin-right: 5px !important;
+}
+
+.ant-table-pagination.ant-pagination {
+  float: left;
+  margin-top: 40px !important;
+}
+.ant-table-thead {
+  background-color: #f4f5f8;
+}
+tr:nth-child(4n + 3) {
+  background: #f4f5f8;
+}
+.ant-table-small {
+  border: none;
+}
+.alltalent-table-portfolio-imgs-div {
+  /* display: flex; */
+  background-color: teal;
+  float: right;
+  width: 82%;
+}
+.alltalent-table-portfolio-img {
+  height: 120px;
+  width: 20%;
+}
+.ant-table-expanded-row {
+  /* visibility: hidden; */
+}
+.ant-table-row-expand-icon-cell {
+  display: none;
+}
+.ant-table-expand-icon-th {
+  display: none;
+}
+.links-opacity-half {
+  opacity: 30%;
+}

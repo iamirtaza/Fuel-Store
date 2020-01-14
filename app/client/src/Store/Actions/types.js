@@ -1,0 +1,22 @@
+//Home
+export const GET_TOP_WALLETS = "GET_TOP_WALLETS";
+export const GET_TOP_FOOD_PROMOTIONS = "GET_TOP_FOOD_PROMOTIONS";
+export const GET_TOP_TRAVEL_PROMOTIONS = "GET_TOP_TRAVEL_PROMOTIONS";
+export const GET_ALL_PROMOTIONS = "GET_ALL_PROMOTIONS";
+
+
+//Compare
+export const GET_ALL_EWALLETS = "GET_ALL_EWALLETS";
+
+//Merchants
+export const GET_ALL_MERCHANTS = "GET_ALL_MERCHANTS";
+
+//Wallet Profile
+export const GET_WALLET_PROFILE = "GET_WALLET_PROFILE";
+
+//Search
+export const GET_SEARCH_QUESTIONS = "GET_SEARCH_QUESTIONS";
+export const GET_SEARCH_RESULT = "GET_SEARCH_RESULT";
+
+
+
